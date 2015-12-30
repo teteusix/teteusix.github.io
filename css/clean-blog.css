@@ -38,10 +38,11 @@ blockquote {
   font-style: italic;
 }
 hr.small {
-  max-width: 100px;
-  margin: 15px auto;
-  border-width: 4px;
-  border-color: white;
+    /* max-width: 100px; */
+    margin: 15px auto;
+    border-width: 1px;
+    border-color: white;
+    width: 100%;
 }
 .navbar-custom {
   background: white;
