@@ -3,8 +3,8 @@ title: Blog Teteusix
 header-img: img/home-bg.jpg
 email: eu@teteusix.com
 description: "My blog using Github Pages and Jekyll, where post articles, tutorials, my views and also a little about my life. Of course, always focusing in development!"
-baseurl: "/"
-url: "http://teteusix.github.io/"
+baseurl: "http://teteusix.github.io"
+url: "http://teteusix.github.io"
 twitter_username: teteusix
 github_username:  teteusix
 facebook_username:  teteusix
