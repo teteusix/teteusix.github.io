@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
   color: #404040;
 }
@@ -20,11 +20,14 @@ h6 {
   font-weight: 800;
 }
 a {
-  color: #404040;
+  /*color: #404040;*/
+  color: #33A78A;
+  transition: 0.2s;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  /*color: #0085a1;*/
+  color: #1abc9c;
 }
 a img:hover,
 a img:focus {
@@ -206,12 +209,14 @@ hr.small {
   }
 }
 .post-preview > a {
-  color: #404040;
+  /*color: #404040;*/
+  color: #33A78A;
 }
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  /*color: #0085a1;*/
+  color: #1abc9c;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -363,8 +368,10 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  /*background-color: #0085a1;*/
+  background-color: #34495e;
+  /*border: 1px solid #0085a1;*/
+  border: 1px solid #34495e;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
